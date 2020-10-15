@@ -1,2 +1,1 @@
-#Coffee Junkie
-##HTML tutorial in Udemy Course
+Coffee Junkie - HTML tutorial in Udemy Course
